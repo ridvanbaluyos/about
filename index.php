@@ -7,13 +7,10 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <title>Ridvan Baluyos | Software Engineer | Developer</title>
-  <meta name="description" content="">
+  <meta name="description" content="Ridvan Baluyos">
   <meta name="viewport" content="width=device-width">
   <link rel='shortcut icon' type='image/x-icon' href='favicon.ico' />
-  <link rel="apple-touch-icon-precomposed" href="apple-touch-icon-precomposed.png">
-  <link rel="apple-touch-icon-precomposed" href="apple-touch-icon-72x72-precomposed.png">
-  <link rel="apple-touch-icon-precomposed" href="apple-touch-icon-114x114-precomposed.png">
-  <link rel="apple-touch-icon-precomposed" href="apple-touch-icon-144x144-precomposed.png">
+  <link rel="apple-touch-icon-precomposed" href="favicon.ico">
   <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
 
   <link rel="stylesheet" href="css/normalize.min.css">
@@ -31,7 +28,7 @@
 </head>
   <body class="bg-fixed bg-1">
 <!--[if lt IE 7]>
-    <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
+    <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="//browsehappy.com/">upgrade your browser</a> or <a href="//www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
     <![endif]-->
    <div class="main-container">
     <div class="main wrapper clearfix">
@@ -52,7 +49,7 @@
           <!-- Tab List -->
             <ul class='etabs'>
                 <li class='tab' id="tab-about">
-                  <a href="#about"><i class="fa fa-user"></i><span> About Me</span></a>
+                  <a href="#about?rel="><i class="fa fa-user"></i><span> About Me</span></a>
                 </li>
                 <li class='tab'>
                   <a href="#resume"><i class="fa fa-file-text"></i><span> Resume</span></a>
@@ -71,7 +68,7 @@
                     <section class="clearfix">
                         <div class="g3">
                             <div class="photo">
-                                <img src="https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-frc1/582546_344156198979857_678123957_n.jpg" alt="Sunny Luthra">
+                                <a href="//distilleryimage11.ak.instagram.com/2d2787f2272f11e3999722000a1fcf03_7.jpg" target="_blank"><img src="//distilleryimage11.ak.instagram.com/2d2787f2272f11e3999722000a1fcf03_7.jpg" alt="Ridvan Baluyos"></a>
                             </div>
                             <div class="info">
                                 <h2>
@@ -81,9 +78,9 @@
                                     Software Engineer
                                 </h4>
                                 <p>
-                                    Aside from being a full-time geek, I enjoy playing with my cats. Yes, that's plural. I have four: 3rdy (Japanese Bobtail), Tara and Ewok (Persian Blue), and Ponkan (domestic cat I rescued).<br/><br/>
-                                    I like Photography but it's limited to travel and candid portraits. I have a <a href="#">deviantArt</a> account but it has been on hiataus.<br/><br/>
-
+                                    Aside from being a full-time corporate geek/slave, I enjoy annoying my cats. Yes, that's plural. I have four: 3rdy (Japanese Bobtail), Tara and Ewok (Persian Blue), and Ponkan (domestic cat I rescued).<br/><br/>
+                                    I like Photography but it's limited to travel and candid portraits. I have a <a href="//rbaluyos.deviantart.com" target="_blank">deviantArt</a> account but it has been on hiataus. I am a brown belt in Shotokan Karate  under the Japan Karate Association. I also bike occasionally borrowing my brother's roadie.<br/><br/>
+                                    Eventhough my main programming language is PHP, I also enjoy tinkering around with other languages, technologies, and concepts too.
                                 </p>
                             </div>
                         </div>
@@ -93,7 +90,7 @@
                             <div class="item-box clearfix">
                               <i class="fa fa-globe"></i>
                               <div class="item-data">
-                                <h3><a href="http://blog.ridvanbaluyos.com">geek neko</a></h3>
+                                <h3><a href="//blog.ridvanbaluyos.com" target="_blank">geek neko</a></h3>
                                 <p>Personal Blog</p>
                               </div>
                             </div>
@@ -102,7 +99,7 @@
                             <div class="item-box clearfix">
                               <i class="fa fa-linkedin"></i>
                               <div class="item-data">
-                                <h3><a href="http://ph.linkedin.com/in/ridvanbaluyos/">ridvanbaluyos</a></h3>
+                                <h3><a href="//ph.linkedin.com/in/ridvanbaluyos/" target="_blank">ridvanbaluyos</a></h3>
                                 <p>LinkedIn</p>
                               </div>
                             </div>
@@ -111,7 +108,7 @@
                             <div class="item-box clearfix">
                               <i class="fa fa-github"></i>
                               <div class="item-data">
-                                <h3><a href="http://github.com/ridvanbaluyos">ridvanbaluyos</a></h3>
+                                <h3><a href="//github.com/ridvanbaluyos" target="_blank">ridvanbaluyos</a></h3>
                                 <p>Github</p>
                               </div>
                             </div>
@@ -122,7 +119,7 @@
                             <div class="item-box clearfix">
                               <i class="fa fa-twitter"></i>
                               <div class="item-data">
-                                <h3><a href="http://twitter.com/ridvanbaluyos">@ridvanbaluyos</a></h3>
+                                <h3><a href="//twitter.com/ridvanbaluyos" target="_blank">@ridvanbaluyos</a></h3>
                                 <p>Twitter Handle</p>
                               </div>
                             </div>
@@ -131,7 +128,7 @@
                             <div class="item-box clearfix">
                               <i class="fa fa-facebook"></i>
                               <div class="item-data">
-                                <h3><a href="http://www.facebook.com/ridvanbaluyos">ridvanbaluyos</a></h3>
+                                <h3><a href="//www.facebook.com/ridvanbaluyos" target="_blank">ridvanbaluyos</a></h3>
                                 <p>Facebook (private)</p>
                               </div>
                             </div>
@@ -140,7 +137,7 @@
                             <div class="item-box clearfix">
                               <i class="fa fa-google-plus"></i>
                               <div class="item-data">
-                                <h3><a href="http://plus.google.com/+RidvanBaluyos">+RidvanBaluyos</a></h3>
+                                <h3><a href="//plus.google.com/+RidvanBaluyos" target="_blank">+RidvanBaluyos</a></h3>
                                 <p>Google+</p>
                               </div>
                             </div>
@@ -205,7 +202,7 @@
                                         Xavier University - Ateneo de Cagayan
                                     </h5><span class="label label-success">2003-2007</span>
                                     <p>
-                                        BS in Computer Science
+                                        Bachelor of Science in Computer Science
                                     </p>
                                 </li>
                                 <li>
@@ -296,73 +293,41 @@
                             </div>
                         </div>
                     </section>
+                    <br/>
+                    <em>* For a more detailed resume, you may visit my <a href="//ph.linkedin.com/in/ridvanbaluyos/" target="_blank">linkedin</a> profile. I am currently not looking a job right now though.</em>
                 </div>
               <!-- End Resume Tab Data -->
               <!-- Portfolio Tab Data -->
                 <div id="portfolio">
                     <section class="clearfix">
-                        <div class="g1">
-                            <div class="image">
-                                <img src="http://lorempixel.com/306/306/sports/1" alt="">
-                                <div class="image-overlay">
-                                    <div class="image-link">
-                                        <a href="http://lorempixel.com/606/606/sports/1" class="btn">Bangkok, Thailand 2013</a>
-                                    </div>
-                                </div>
-                            </div>
+                        <div class="g3">
+                            <p>
+                                I am not really a traveller. But it just happens to be that I am immersed into friends who like to travel. So I'm including here the list of places that I've been to. I wish to visit more places in the future.<br/><br/> More stories on my <a href="//blog.ridvanbaluyos.com"/>blog.</a>
+                            </p>
                         </div>
+                        <?php
+                            include "places.config.php";
+                            $ctr = 0;
+                        ?>
+                        <?php foreach($places as $place): ?>
                         <div class="g1">
                             <div class="image">
-                                <img src="http://lorempixel.com/306/306/sports/2" alt="">
+                                <img src="<?php echo $place['img']; ?>" alt="">
                                 <div class="image-overlay">
                                     <div class="image-link">
-                                        <a href="http://lorempixel.com/606/606/sports/2" class="btn">Batanes, Philippines 2013<br/>asdfasdf
+                                        <a href="<?php echo $place['link']; ?>" class="btn">
+                                        <?php echo $place['place'] . ' ' . $place['year']; ?>
                                         </a>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <div class="g1">
-                            <div class="image">
-                                <img src="http://lorempixel.com/306/306/sports/3" alt="">
-                                <div class="image-overlay">
-                                    <div class="image-link">
-                                        <a href="http://lorempixel.com/606/606/sports/3" class="btn">Hong Kong 2013</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="break"></div>
-                        <div class="g1">
-                            <div class="image">
-                                <img src="http://lorempixel.com/306/306/sports/4" alt="">
-                                <div class="image-overlay">
-                                    <div class="image-link">
-                                        <a href="http://lorempixel.com/606/606/sports/4" class="btn">Macau 2013</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="g1">
-                            <div class="image">
-                                <img src="http://lorempixel.com/306/306/sports/5" alt="">
-                                <div class="image-overlay">
-                                    <div class="image-link">
-                                        <a href="http://lorempixel.com/606/606/sports/5" class="btn">Singapore 2013</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="g1">
-                            <div class="image">
-                                <img src="http://lorempixel.com/306/306/business/2" alt="">
-                                <div class="image-overlay">
-                                    <div class="image-link">
-                                        <a href="http://lorempixel.com/606/606/business/2" class="btn">Tokyo, Japan 2013</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+                        <?php
+                            if ($ctr >= 3) {
+                                echo " <div class=\"break\"></div>";
+                            }
+                        ?>
+                        <?php endforeach; ?>
                     </section>
                 </div>
               <!-- End Portfolio Data -->
@@ -372,11 +337,11 @@
                        <div class="g3">
                          <div class="sny-icon-box">
                            <div class="sny-icon">
-                              <i class="fa fa-globe"></i>
+                              <i class="fa fa-envelope"></i>
                             </div>
                             <div class="sny-icon-content">
-                              <h4>Blog</h4>
-                              <p><a href="http://blog.ridvanbaluyos.com">blog.ridvanbaluyos.com</a></p>
+                              <h4>Email</h4>
+                              <p><a href="mailto:ridvan@baluyos.net">ridvan@baluyos.net</a></p>
                             </div>
                          </div>
                        </div>
@@ -389,7 +354,7 @@
         <footer>
             <p>
                 © 2013 Ridvan Baluyos <br/>
-                Designed with lots of love at <a href="http://www.mrova.com" title="Pune web designing company">mRova</a>.
+                Designed with lots of love at <a href="//www.mrova.com" title="Pune web designing company">mRova</a>.
             </p>
         </footer>
     </div><!-- #main -->
