@@ -50,7 +50,7 @@
           <!-- Tab List -->
             <ul class='etabs'>
                 <li class='tab' id="tab-about">
-                  <a href="#about?rel="><i class="fa fa-user"></i><span> About Me</span></a>
+                  <a href="#about?rel=http://plus.google.com/+RidvanBaluyos"><i class="fa fa-user"></i><span> About Me</span></a>
                 </li>
                 <li class='tab'>
                   <a href="#resume"><i class="fa fa-file-text"></i><span> Resume</span></a>
@@ -355,7 +355,7 @@
         <footer>
             <p>
                 © 2013 Ridvan Baluyos <br/>
-                Designed with lots of love at <a href="//www.mrova.com" title="Pune web designing company">mRova</a>.
+                <span style="font-size: 9px;">Designed with lots of love at <a href="//www.mrova.com" title="Pune web designing company">mRova</a>.</span>
             </p>
         </footer>
     </div><!-- #main -->
