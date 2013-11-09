@@ -7,7 +7,8 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <title>Ridvan Baluyos | Software Engineer | Developer</title>
-  <meta name="description" content="Ridvan Baluyos">
+  <meta name="description" content="Hello, I am Ridvan Baluyos and I am a Software Engineer at Sulit.com.ph, The Philippines' No. 1 Buy and Sell Website.">
+  <meta name="keywords" content="Software Engineer, PHP Developer, PHP Programmer, PHP Developer Philippines, Filipino Developer, Pogi Developer" />
   <meta name="viewport" content="width=device-width">
   <link rel='shortcut icon' type='image/x-icon' href='favicon.ico' />
   <link rel="apple-touch-icon-precomposed" href="favicon.ico">
