@@ -10,6 +10,7 @@
   <meta name="description" content="Hello, I am Ridvan Baluyos and I am a Software Engineer at Sulit.com.ph, The Philippines' No. 1 Buy and Sell Website.">
   <meta name="keywords" content="Software Engineer, PHP Developer, PHP Programmer, PHP Developer Philippines, Filipino Developer, Pogi Developer" />
   <meta name="viewport" content="width=device-width">
+  <link rel="author" href="https://plus.google.com/+RidvanBaluyos" />
   <link rel='shortcut icon' type='image/x-icon' href='favicon.ico' />
   <link rel="apple-touch-icon-precomposed" href="favicon.ico">
   <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
