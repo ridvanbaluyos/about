@@ -296,7 +296,7 @@
                         </div>
                     </section>
                     <br/>
-                    <em>* For a more detailed resume, you may visit my <a href="//ph.linkedin.com/in/ridvanbaluyos/" target="_blank">linkedin</a> profile. I am currently not looking a job right now though.</em>
+                    <em>* For a more detailed resume, you may visit my <a href="//ph.linkedin.com/in/ridvanbaluyos/" target="_blank">linkedin</a> profile. Shoot me an email for my CV. </em>
                 </div>
               <!-- End Resume Tab Data -->
               <!-- Portfolio Tab Data -->
