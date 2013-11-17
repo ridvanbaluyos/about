@@ -46,6 +46,7 @@
             </div>
         </header>
         <!-- Header End -->
+
         <!-- Main Tab Container -->
         <div id="tab-container" class="tab-container">
           <!-- Tab List -->
@@ -64,6 +65,7 @@
                 </li>
             </ul>
           <!-- End Tab List -->
+
             <div id="tab-data-wrap">
               <!-- About Tab Data -->
                 <div id="about">
@@ -149,6 +151,7 @@
                     </section><!-- content -->
                 </div>
               <!-- End About Tab Data -->
+
               <!-- Resume Tab Data -->
                 <div id="resume">
                     <section class="clearfix">
@@ -299,7 +302,8 @@
                     <em>* For a more detailed resume, you may visit my <a href="//ph.linkedin.com/in/ridvanbaluyos/" target="_blank">linkedin</a> profile. Shoot me an email for my CV. </em>
                 </div>
               <!-- End Resume Tab Data -->
-              <!-- Portfolio Tab Data -->
+
+              <!-- Hobbies Tab Data -->
                 <div id="portfolio">
                     <section class="clearfix">
                         <div class="g3">
@@ -332,7 +336,8 @@
                         <?php endforeach; ?>
                     </section>
                 </div>
-              <!-- End Portfolio Data -->
+              <!-- End Hobbies Data -->
+
               <!-- Contact Tab Data -->
                 <div id="contact">
                     <section class="clearfix">
