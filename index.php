@@ -7,8 +7,8 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <title>Ridvan Baluyos | Software Engineer | Developer</title>
-  <meta name="description" content="Hello, I am Ridvan Baluyos and I am a Software Engineer at Sulit.com.ph, The Philippines' No. 1 Buy and Sell Website.">
-  <meta name="keywords" content="Software Engineer, PHP Developer, PHP Programmer, PHP Developer Philippines, Filipino Developer, Pogi Developer" />
+  <meta name="description" content="Hello, I'm Ridvan Baluyos and I work as a Software Engineer for the Philippines' #1 Buy and Sell Website.">
+  <meta name="keywords" content="Software Engineer, PHP Developer, PHP Programmer, PHP Developer Philippines, Filipino Developer, Pogi Developer, Sulit.com.ph" />
   <meta name="viewport" content="width=device-width">
   <link rel="author" href="https://plus.google.com/+RidvanBaluyos" />
   <link rel='shortcut icon' type='image/x-icon' href='favicon.ico' />
@@ -84,7 +84,7 @@
                                 <p>
                                     Aside from being a full-time corporate geek/slave, I enjoy annoying my cats. Yes, that's plural. I have four: 3rdy (Japanese Bobtail), Tara and Ewok (Persian Blue), and Ponkan (domestic cat I rescued).<br/><br/>
                                     I like Photography but it's limited to travel and candid portraits. I have a <a href="//rbaluyos.deviantart.com" target="_blank">deviantArt</a> account but it has been on hiataus. I am a brown belt in Shotokan Karate  under the Japan Karate Association. I also bike occasionally borrowing my brother's roadie.<br/><br/>
-                                    Eventhough my main programming language is PHP, I also enjoy tinkering around with other languages, technologies, and concepts too.
+                                    Eventhough my main programming language is PHP, I also enjoy tinkering around with other languages, technologies, and concepts too. You can check out my <a href="http://osrc.dfm.io/ridvanbaluyos" target="_blank">Open Source Report Card</a>.
                                 </p>
                             </div>
                         </div>
@@ -360,7 +360,7 @@
         <!-- End Tab Container -->
         <footer>
             <p>
-                © 2013 Ridvan Baluyos <br/>
+                © 2013 Ridvan baluyos <br/>
                 <span style="font-size: 9px;">Designed with lots of love at <a href="//www.mrova.com" title="Pune web designing company">mRova</a>.</span>
             </p>
         </footer>
@@ -380,7 +380,5 @@
   ga('send', 'pageview');
 
 </script>
-
-
 </body>
 </html>
