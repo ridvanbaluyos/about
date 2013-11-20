@@ -368,9 +368,6 @@
 </div><!-- #main-container -->
 <!-- Google Analytics -->
 <script>
-    $(document).foundation();
-  </script>
-  <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
@@ -378,7 +375,20 @@
 
   ga('create', 'UA-45399063-2', 'ridvanbaluyos.com');
   ga('send', 'pageview');
+</script>
+<!-- JSConf Asia 2013 -->
+<script>
+  window.scrollback = {
+    streams:["JSConfAsia"],
+    theme: 'light',
+    ticker: true,
+  };
 
+  /***** don't edit below *****/
+  (function(d,s,h,e){e=d.createElement(s);e.async=1;
+  e.src=h+'/client.min.js';scrollback.host=h;
+  d.getElementsByTagName(s)[0].parentNode.appendChild(e);}
+  (document,'script',location.protocol+'//scrollback.io'));
 </script>
 </body>
 </html>
