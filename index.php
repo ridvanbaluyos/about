@@ -304,7 +304,7 @@
               <!-- End Resume Tab Data -->
 
               <!-- Hobbies Tab Data -->
-                <div id="portfolio">
+                <div id="travel">
                     <section class="clearfix">
                         <div class="g3">
                             <p>
@@ -323,7 +323,7 @@
                                 </div>
                             </div>
                         </div>
-                      <!--   <?php
+                        <?php
                             include "places.config.php";
                             $ctr = 0;
                         ?>
@@ -345,7 +345,7 @@
                                 echo " <div class=\"break\"></div>";
                             }
                         ?>
-                        <?php endforeach; ?> -->
+                        <?php endforeach; ?>
                     </section>
                 </div>
               <!-- End Hobbies Data -->
