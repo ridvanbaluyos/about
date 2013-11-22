@@ -52,16 +52,16 @@
           <!-- Tab List -->
             <ul class='etabs'>
                 <li class='tab' id="tab-about">
-                  <a href="#about?rel=http://plus.google.com/+RidvanBaluyos"><i class="fa fa-user"></i><span> About Me</span></a>
+                  <a href="#about?rel=http://plus.google.com/+RidvanBaluyos" title="Ridvan Baluyos | About"><i class="fa fa-user"></i><span> About Me</span></a>
                 </li>
                 <li class='tab'>
-                  <a href="#resume"><i class="fa fa-file-text"></i><span> Resume</span></a>
+                  <a href="#resume" title="Ridvan Baluyos | Resume | CV | Curriculum Vitae"><i class="fa fa-file-text"></i><span> Resume</span></a>
                 </li>
                 <li class='tab'>
-                  <a href="#portfolio"><i class="fa fa-plane"></i><span> Travel</span></a>
+                  <a href="#travel"><i class="fa fa-plane"></i><span> Travel</span></a>
                 </li>
                 <li class='tab'>
-                  <a href="#contact"><i class="fa fa-envelope"></i><span> Contact</span></a>
+                  <a href="#contact" title="Ridvan Baluyos | Email | Contact | Find"><i class="fa fa-envelope"></i><span> Contact</span></a>
                 </li>
             </ul>
           <!-- End Tab List -->
@@ -94,7 +94,7 @@
                             <div class="item-box clearfix">
                               <i class="fa fa-globe"></i>
                               <div class="item-data">
-                                <h3><a href="//blog.ridvanbaluyos.com" target="_blank">geek neko</a></h3>
+                                <h3><a href="//blog.ridvanbaluyos.com" title="Ridvan Baluyos | Blog | Geek Neko" target="_blank">geek neko</a></h3>
                                 <p>Personal Blog</p>
                               </div>
                             </div>
@@ -103,7 +103,7 @@
                             <div class="item-box clearfix">
                               <i class="fa fa-linkedin"></i>
                               <div class="item-data">
-                                <h3><a href="//ph.linkedin.com/in/ridvanbaluyos/" target="_blank">ridvanbaluyos</a></h3>
+                                <h3><a href="//ph.linkedin.com/in/ridvanbaluyos/" title="Ridvan Baluyos | LinkedIn" target="_blank">ridvanbaluyos</a></h3>
                                 <p>LinkedIn</p>
                               </div>
                             </div>
@@ -112,7 +112,7 @@
                             <div class="item-box clearfix">
                               <i class="fa fa-github"></i>
                               <div class="item-data">
-                                <h3><a href="//github.com/ridvanbaluyos" target="_blank">ridvanbaluyos</a></h3>
+                                <h3><a href="//github.com/ridvanbaluyos" title="Ridvan Baluyos | Github" target="_blank">ridvanbaluyos</a></h3>
                                 <p>Github</p>
                               </div>
                             </div>
@@ -123,7 +123,7 @@
                             <div class="item-box clearfix">
                               <i class="fa fa-twitter"></i>
                               <div class="item-data">
-                                <h3><a href="//twitter.com/ridvanbaluyos" target="_blank">@ridvanbaluyos</a></h3>
+                                <h3><a href="//twitter.com/ridvanbaluyos" title="Ridvan Baluyos | Twitter" target="_blank">@ridvanbaluyos</a></h3>
                                 <p>Twitter Handle</p>
                               </div>
                             </div>
@@ -132,7 +132,7 @@
                             <div class="item-box clearfix">
                               <i class="fa fa-facebook"></i>
                               <div class="item-data">
-                                <h3><a href="//www.facebook.com/ridvanbaluyos" target="_blank">ridvanbaluyos</a></h3>
+                                <h3><a href="//www.facebook.com/ridvanbaluyos" title="Ridvan Baluyos | Facebook" target="_blank">ridvanbaluyos</a></h3>
                                 <p>Facebook (private)</p>
                               </div>
                             </div>
@@ -141,7 +141,7 @@
                             <div class="item-box clearfix">
                               <i class="fa fa-google-plus"></i>
                               <div class="item-data">
-                                <h3><a href="//plus.google.com/+RidvanBaluyos" target="_blank">+RidvanBaluyos</a></h3>
+                                <h3><a href="//plus.google.com/+RidvanBaluyos" title="Ridvan Baluyos | Google+" target="_blank">+RidvanBaluyos</a></h3>
                                 <p>Google+</p>
                               </div>
                             </div>
@@ -360,7 +360,7 @@
                             </div>
                             <div class="sny-icon-content">
                               <h4>Email</h4>
-                              <p><a href="mailto:ridvan@baluyos.net">ridvan@baluyos.net</a></p>
+                              <p><a href="mailto:ridvan@baluyos.net" title="Ridvan Baluyos | Contact">ridvan@baluyos.net</a></p>
                             </div>
                          </div>
                        </div>
