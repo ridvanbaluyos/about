@@ -83,8 +83,8 @@
                                 </h4>
                                 <p>
                                     Aside from being a full-time corporate geek/slave, I enjoy annoying my cats. Yes, that's plural. I have four: 3rdy (Japanese Bobtail), Tara and Ewok (Persian Blue), and Ponkan (domestic cat I rescued).<br/><br/>
-                                    I like Photography but it's limited to travel and candid portraits. I have a <a href="//rbaluyos.deviantart.com" target="_blank">deviantArt</a> account but it has been on hiataus. I am a brown belt in Shotokan Karate  under the Japan Karate Association. I also bike occasionally borrowing my brother's roadie.<br/><br/>
-                                    Eventhough my main programming language is PHP, I also enjoy tinkering around with other languages, technologies, and concepts too. You can check out my <a href="http://osrc.dfm.io/ridvanbaluyos" target="_blank">Open Source Report Card</a>.
+                                    I like Photography but it's limited to travel and candid portraits. I have a <a href="//rbaluyos.deviantart.com" target="_blank">deviantArt</a> account but it has been on hiataus. I am a brown belt in Shotokan Karate under the <a href="http://www.jka.or.jp">Japan Karate Association</a>. I also bike occasionally borrowing my brother's roadie.<br/><br/>
+                                    Eventhough my main programming language is PHP, I also enjoy tinkering around with other languages, technologies, and concepts too. You can check out my <a href="http://osrc.dfm.io/ridvanbaluyos" target="_blank">Open Source Report Card</a> and <a href="http://stackoverflow.com/users/1131414/ridvan">StackOverflow</a> profile.
                                 </p>
                             </div>
                         </div>
@@ -308,10 +308,22 @@
                     <section class="clearfix">
                         <div class="g3">
                             <p>
-                                I am not really a traveller. But it just happens to be that I am immersed into friends who like to travel. So I'm including here the list of places that I've been to. I wish to visit more places in the future.<br/><br/> More stories on my <a href="//blog.ridvanbaluyos.com"/>blog.</a>
+                                When not in front of the screen, I have a few hobbies and interests.<br/><br/> More stories on my <a href="//blog.ridvanbaluyos.com"/>blog.</a>
                             </p>
                         </div>
-                        <?php
+                        <div class="g1">
+                            <div class="image">
+                                <img src="<?php echo $place['img']; ?>" alt="">
+                                <div class="image-overlay">
+                                    <div class="image-link">
+                                        <a href="" class="btn">
+                                        Test
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                      <!--   <?php
                             include "places.config.php";
                             $ctr = 0;
                         ?>
@@ -333,7 +345,7 @@
                                 echo " <div class=\"break\"></div>";
                             }
                         ?>
-                        <?php endforeach; ?>
+                        <?php endforeach; ?> -->
                     </section>
                 </div>
               <!-- End Hobbies Data -->
@@ -369,8 +381,8 @@
 <!-- Google Analytics -->
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
   ga('create', 'UA-45399063-2', 'ridvanbaluyos.com');
@@ -379,9 +391,9 @@
 <!-- JSConf Asia 2013 -->
 <script>
   window.scrollback = {
-    streams:["JSConfAsia"],
-    theme: 'light',
-    ticker: true,
+      streams:["JSConfAsia"],
+      theme: 'light',
+      ticker: true,
   };
 
   /***** don't edit below *****/
