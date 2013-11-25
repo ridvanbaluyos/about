@@ -84,7 +84,8 @@
                                 <p>
                                     Aside from being a full-time corporate geek/slave, I enjoy annoying my cats. Yes, that's plural. I have four: 3rdy (Japanese Bobtail), Tara and Ewok (Persian Blue), and Ponkan (domestic cat I rescued).<br/><br/>
                                     I like Photography but it's limited to travel and candid portraits. I have a <a href="//rbaluyos.deviantart.com" target="_blank">deviantArt</a> account but it has been on hiataus. I am a brown belt in Shotokan Karate under the <a href="http://www.jka.or.jp" target="_blank">Japan Karate Association</a>. I also bike occasionally borrowing my brother's roadie.<br/><br/>
-                                    Eventhough my main programming language is PHP, I also enjoy tinkering around with other languages, technologies, and concepts too. You can check out my <a href="http://osrc.dfm.io/ridvanbaluyos" target="_blank">Open Source Report Card</a> and <a href="http://stackoverflow.com/users/1131414/ridvan" target="_blank">StackOverflow</a> profile.
+                                    Eventhough my main programming language is PHP, I also enjoy tinkering around with other languages, technologies, and concepts too. You can check out my <a href="http://osrc.dfm.io/ridvanbaluyos" target="_blank">Open Source Report Card</a> and <a href="http://stackoverflow.com/users/1131414/ridvan" target="_blank">StackOverflow</a> profile.<br/><br/>
+				I have also worked with a lot of Software Development Life Cycles such as Scrum, Waterfall, Iterative, and Kanban. But really, sometimes I just want to do some <a href="http://progmofo.com" target="_blank">Programming, zbgureshpxre. Do you speak it</a>?
                                 </p>
                             </div>
                         </div>
