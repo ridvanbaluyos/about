@@ -7,7 +7,7 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <title>Ridvan Baluyos | Software Engineer | Developer</title>
-  <meta name="description" content="Hello, I'm Ridvan Baluyos and I work as a Software Engineer for the Philippines' #1 Buy and Sell Website.">
+  <meta name="description" content="Hello, I'm Ridvan Baluyos and I am a Research and Development Engineer at Ewok Labs, Inc.">
   <meta name="keywords" content="Software Engineer, PHP Developer, PHP Programmer, PHP Developer Philippines, Filipino Developer, Pogi Developer, Sulit.com.ph" />
   <meta name="viewport" content="width=device-width">
   <link rel="author" href="https://plus.google.com/+RidvanBaluyos" />
