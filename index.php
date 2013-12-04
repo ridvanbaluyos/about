@@ -82,11 +82,9 @@
                                     Software Engineer
                                 </h4>
                                 <p>
-                                    Apart from being a full-time corporate geek/slave, I enjoy working at my imaginary company named <a href="http://www.ewoklabs.net" target="_blank" title="Ewok Labs, Inc.">Ewok Labs, Inc.</a> It is a Research and Development entity aimed at making work as fun and lazy as possible. The company name was inspired by my Persian Blue cat named "Ewok" who by the way, is the laziest cat I've ever had.
-                                    I have four cats by the way: 3rdy (Japanese Bobtail), Tara and Ewok (Persian Blue), and Ponkan (domestic cat I rescued).<br/><br/>
-                                    I like Photography but it's limited to travel and candid portraits. I have a <a href="//rbaluyos.deviantart.com" target="_blank">deviantArt</a> account but it has been on hiataus. I am a brown belt in Shotokan Karate under the <a href="http://www.jka.or.jp" target="_blank">Japan Karate Association</a>. I also bike occasionally borrowing my brother's roadie.<br/><br/>
-                                    Even though my main programming language is PHP, I also enjoy tinkering around with other languages, technologies, and concepts too. You can check out my <a href="http://osrc.dfm.io/ridvanbaluyos" target="_blank">Open Source Report Card</a> and <a href="http://stackoverflow.com/users/1131414/ridvan" target="_blank">StackOverflow</a> profile.<br/><br/>
-				I have also worked with a lot of Software Development Life Cycles such as Scrum, Waterfall, Iterative, and Kanban. But really, sometimes I just want to do some <a href="http://progmofo.com" target="_blank">Programming, zbgureshpxre. Do you speak it</a>?
+                                  Apart from being a full-time corporate geek/slave, I enjoy tinkering and hacking technology stacks at my imaginary company called <a href="http://www.ewoklabs.net" target="_blank" title="Ewok Labs, Inc | Research and Development">Ewok Labs, Inc.</a> It is a Research and Development entity aimed at making work as fun and lazy as possible. You can check out my <a href="http://osrc.dfm.io/ridvanbaluyos" target="_blank">Open Source Report Card</a> and <a href="_http://stackoverflow.com/users/1131414/ridvan" target="_blank">Stack Overflow</a> profile. We follow the <a href="http://progmofo.com/" target="_blank" title="Programming, Motherfucker.">Programming, zbgureshpxre. Do you speak it?</a> manifesto. <br/><br/>
+                                  I am a cat lover and I own four: 3rdy (Japanese Bobtail), Tara (Persian Blue), Ewok (Persian Blue, offspring of 3rdy and Tara), and Ponkan (Domestic Shorthair I rescued in the middle of a Typhoon). <br/><br/>
+                                  I have other hobbies such as Photography (Travel and Candid Portraits). I have a <a href="http://rbaluyos.deviantart.com/" target="_blank" title="rbaluyos | deviantArt">deviantArt</a> account where I store my photos but has been on a hiatus. I also enjoy Martial Arts and enjoy watching UFC. I am a Brown Belt in Karate under the <a href="http://www.jka.or.jp/" target="_blank" title="Japan Karate Association">Japan Karate Association</a>. I occassionaly go out for a ride with my brother's Mountain Bike.
                                 </p>
                             </div>
                         </div>
@@ -301,7 +299,10 @@
                         </div>
                     </section>
                     <br/>
-                    <em>* For a more detailed resume, you may visit my <a href="//ph.linkedin.com/in/ridvanbaluyos/" target="_blank">linkedin</a> profile. Shoot me an email for my CV. </em>
+                    <p>
+                    <small><em>* For a more detailed resume, you may visit my <a href="//ph.linkedin.com/in/ridvanbaluyos/" target="_blank">linkedin</a> profile. Shoot me an email for my CV. </em><br/>
+                    <em>** DISCLAIMER: This is a personal website. The opinions/statements expressed here represent my own and not those of my employers (current and past).</em>
+                  </small></p>
                 </div>
               <!-- End Resume Tab Data -->
 
