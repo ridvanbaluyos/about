@@ -1,5 +1,11 @@
 <?php
 $places[] = array(
+	'place' => 'Tokyo, Japan',
+	'year' => '2013',
+	'img' => 'images/tokyo.jpg',
+	'link' => '#'
+);
+$places[] = array(
 	'place' => 'Bangkok, Thailand',
 	'year' => '2013',
 	'img' => '//lorempixel.com/606/606/sports/3',
@@ -23,12 +29,7 @@ $places[] = array(
 	'img' => '//lorempixel.com/606/606/sports/3',
 	'link' => '#'
 );
-$places[] = array(
-	'place' => 'Tokyo, Japan',
-	'year' => '2013',
-	'img' => '//lorempixel.com/606/606/sports/3',
-	'link' => '#'
-);
+
 $places[] = array(
 	'place' => 'Singapore',
 	'year' => '2013',

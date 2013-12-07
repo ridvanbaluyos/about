@@ -314,18 +314,6 @@
                                 When not in front of the screen, I have a few hobbies and interests.<br/><br/> More stories on my <a href="//blog.ridvanbaluyos.com"/>blog.</a>
                             </p>
                         </div>
-                        <div class="g1">
-                            <div class="image">
-                                <img src="<?php echo $place['img']; ?>" alt="">
-                                <div class="image-overlay">
-                                    <div class="image-link">
-                                        <a href="" class="btn">
-                                        Test
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
                         <?php
                             include "places.config.php";
                             $ctr = 0;
@@ -363,7 +351,7 @@
                             </div>
                             <div class="sny-icon-content">
                               <h4>Email</h4>
-                              <p><a href="mailto:ridvan@baluyos.net" title="Ridvan Baluyos | Contact">ridvan@baluyos.net</a></p>
+                              <p><a href="mailto:hello@ridvanbaluyos.com" title="Ridvan Baluyos | Contact">hello@ridvanbaluyos.com</a></p>
                             </div>
                          </div>
                        </div>
