@@ -351,7 +351,8 @@
                             </div>
                             <div class="sny-icon-content">
                               <h4>Email</h4>
-                              <p><a href="mailto:hello@ridvanbaluyos.com" title="Ridvan Baluyos | Contact">hello@ridvanbaluyos.com</a></p>
+                              <p><a href='mailto:&#104;&#101;&#108;&#108;&#111;&#064;&#114;&#105;&#100;&#118;&#097;&#110;&#098;&#097;&#108;&#117;&#121;&#111;&#115;&#046;&#099;&#111;&#109;' title="Ridvan Baluyos | Email">&#104;&#101;&#108;&#108;&#111;&#064;&#114;&#105;&#100;&#118;&#097;&#110;&#098;&#097;&#108;&#117;&#121;&#111;&#115;&#046;&#099;&#111;&#109;</a>
+</p>
                             </div>
                          </div>
                        </div>
