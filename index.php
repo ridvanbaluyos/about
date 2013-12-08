@@ -311,9 +311,9 @@
                     <section class="clearfix">
                         <div class="g3">
                             <p>
-                                When not in front of the screen, I have a few hobbies and interests.<br/><br/> More stories on my <a href="//blog.ridvanbaluyos.com"/>blog.</a>
+                                No content available yet. For the meantime, you may check my <a href="http://blog.ridvanbaluyos.com" target="_blank">blog</a>. :3
                             </p>
-                        </div>
+                        </div><!--
                         <?php
                             include "places.config.php";
                             $ctr = 0;
@@ -336,7 +336,7 @@
                                 echo " <div class=\"break\"></div>";
                             }
                         ?>
-                        <?php endforeach; ?>
+                        <?php endforeach; ?> -->
                     </section>
                 </div>
               <!-- End Hobbies Data -->
