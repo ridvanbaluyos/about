@@ -82,9 +82,9 @@
                                     Software Engineer
                                 </h4>
                                 <p>
-                                  Apart from being a full-time corporate geek/slave, I enjoy tinkering and hacking technology stacks at my imaginary company called <a href="http://www.ewoklabs.net" target="_blank" title="Ewok Labs, Inc | Research and Development">Ewok Labs, Inc.</a> It is a Research and Development entity aimed at making work as fun and lazy as possible. You can check out my <a href="http://osrc.dfm.io/ridvanbaluyos" target="_blank">Open Source Report Card</a> and <a href="_http://stackoverflow.com/users/1131414/ridvan" target="_blank">Stack Overflow</a> profile. We follow the <a href="http://progmofo.com/" target="_blank" title="Programming, Motherfucker.">Programming, zbgureshpxre. Do you speak it?</a> manifesto. <br/><br/>
-                                  I am a cat lover and I own four: 3rdy (Japanese Bobtail), Tara (Persian Blue), Ewok (Persian Blue, offspring of 3rdy and Tara), and Ponkan (Domestic Shorthair I rescued in the middle of a Typhoon). <br/><br/>
-                                  I have other hobbies such as Photography (Travel and Candid Portraits). I have a <a href="http://rbaluyos.deviantart.com/" target="_blank" title="rbaluyos | deviantArt">deviantArt</a> account where I store my photos but has been on a hiatus. I also enjoy Martial Arts and enjoy watching UFC. I am a Brown Belt in Karate under the <a href="http://www.jka.or.jp/" target="_blank" title="Japan Karate Association">Japan Karate Association</a>. I occassionaly go out for a ride with my brother's Mountain Bike.
+                                  Apart from being a full-time corporate geek/slave for an <a href="http://www.olx.ph">awesome company</a>, I enjoy tinkering and hacking technology stacks at my <a href="http://www.ewoklabs.net" target="_blank" title="Ewok Labs, Inc | Research and Development">R&D Laboratory</a>. We follow the <a href="http://progmofo.com/" target="_blank" title="Programming, Motherfucker.">Programming, zbgureshpxre</a> manifesto. <br/><br/>
+                                  I am a cat lover and I have three living with me: 3rdy (Japanese Bobtail), Tara (Persian Blue), and Trinity (Domestic "PusPin" I rescued after being thrown in the garbage). <br/><br/>
+                                  I have other hobbies such as Photography (Travel and Candid Portraits). You can check my <a href="http://rbaluyos.deviantart.com/" target="_blank" title="rbaluyos | deviantArt">deviantArt</a> account where I store my photos but has been on a hiatus. I also enjoy Martial Arts and enjoy watching UFC. I am a Brown Belt in Karate under the <a href="http://www.jka.or.jp/" target="_blank" title="Japan Karate Association">Japan Karate Association</a>. I also do weekend rides with my Mountain Bike within the outskirts of Metro Manila.
                                 </p>
                             </div>
                         </div>
@@ -381,19 +381,5 @@
   ga('send', 'pageview');
 </script>
 
-<!-- Scrollback -->
-<script>
-  window.scrollback = {
-    streams:["geekneko"],
-    theme: 'light',
-    ticker: true,
-  };
-
-  /***** don't edit below *****/
-  (function(d,s,h,e){e=d.createElement(s);e.async=1;
-  e.src=h+'/client.min.js';scrollback.host=h;
-  d.getElementsByTagName(s)[0].parentNode.appendChild(e);}
-  (document,'script',location.protocol+'//scrollback.io'));
-</script>
 </body>
 </html>
