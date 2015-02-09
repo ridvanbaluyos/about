@@ -66,7 +66,7 @@
                     <section class="clearfix">
                         <div class="g3">
                             <div class="photo">
-                                <a href="//distilleryimage11.ak.instagram.com/2d2787f2272f11e3999722000a1fcf03_7.jpg" target="_blank"><img src="//distilleryimage11.ak.instagram.com/2d2787f2272f11e3999722000a1fcf03_7.jpg" alt="Ridvan Baluyos"></a>
+                                <a href="//photos-g.ak.instagram.com/hphotos-ak-xaf1/t51.2885-15/10848352_353478128156926_1843449433_n.jpg" target="_blank"><img src="//distilleryimage11.ak.instagram.com/2d2787f2272f11e3999722000a1fcf03_7.jpg" alt="Ridvan Baluyos"></a>
                             </div>
                             <div class="info">
                                 <h2>
