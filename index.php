@@ -54,12 +54,14 @@
                 <li class='tab' id="tab-about">
                   <a href="#about?rel=http://plus.google.com/+RidvanBaluyos" title="Ridvan Baluyos | About"><i class="fa fa-user"></i><span> About Me</span></a>
                 </li>
+                <!--
                 <li class='tab'>
                   <a href="#resume" title="Ridvan Baluyos | Resume | CV | Curriculum Vitae"><i class="fa fa-file-text"></i><span> Resume</span></a>
                 </li>
                 <li class='tab'>
                   <a href="#travel"><i class="fa fa-plane"></i><span> Travel</span></a>
                 </li>
+                -->
                 <li class='tab'>
                   <a href="#contact" title="Ridvan Baluyos | Email | Contact | Find"><i class="fa fa-envelope"></i><span> Contact</span></a>
                 </li>
