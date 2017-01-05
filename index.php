@@ -15,8 +15,8 @@
     <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
     <link rel="icon" href="/favicon.ico" type="image/x-icon">
 
-    <link href='http://fonts.googleapis.com/css?family=Lato:300,400,300italic,400italic' rel='stylesheet' type='text/css'>
-    <link href='http://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'> 
+    <link href='//fonts.googleapis.com/css?family=Lato:300,400,300italic,400italic' rel='stylesheet' type='text/css'>
+    <link href='//fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
     <!-- Global CSS -->
     <link rel="stylesheet" href="assets/plugins/bootstrap/css/bootstrap.min.css">   
     <!-- Plugins CSS -->
@@ -167,44 +167,15 @@
                         <h2 class="heading">Conferences</h2>
                         <div class="content">
                             <ul class="list-unstyled">
-                                <li><i class="fa fa-calendar"></i> <a href="https://2012.jsconf.asia/" target="_blank">JS Camp Asia 2012</a> (Singapore)</li>
-                                <li><i class="fa fa-calendar"></i> <a href="http://2013.uxsg.org/" target="_blank">UXSG 2013</a> (Singapore)</li>
-                                <li><i class="fa fa-calendar"></i> <a href="https://2013.jsconf.asia/">JS Conf Asia 2013</a> (Manila)</li>
+                                <li><i class="fa fa-calendar"></i> <a href="//2012.jsconf.asia/" target="_blank">JS Camp Asia 2012</a> (Singapore)</li>
+                                <li><i class="fa fa-calendar"></i> <a href="/2013.uxsg.org/" target="_blank">UXSG 2013</a> (Singapore)</li>
+                                <li><i class="fa fa-calendar"></i> <a href="//2013.jsconf.asia/">JS Conf Asia 2013</a> (Manila)</li>
                                 <li><i class="fa fa-calendar"></i> <a href="#">OLX Atlas Bootcamp 2015</a> (New Delhi)</li>
-                                <li><i class="fa fa-calendar"></i> <a href="https://2016.phpconf.asia/recap_2015.html">PHP Conference Asia 2015</a> (Singapore)</li>
+                                <li><i class="fa fa-calendar"></i> <a href="//2016.phpconf.asia/recap_2015.html">PHP Conference Asia 2015</a> (Singapore)</li>
                                 <li><i class="fa fa-calendar"></i> <a href="#">OLX Tech Leads Summit 2015</a> (Berlin)</li>
                                 <li><i class="fa fa-calendar"></i> <a href="#">OLX CLM Embedding Summit 2016</a> (Dubai)</li>
-                                <li><i class="fa fa-calendar"></i> <a href="http://www.phpconfph.com/">PHP Conference Philippines 2016</a> (Manila)</li>
+                                <li><i class="fa fa-calendar"></i> <a href="//www.phpconfph.com/">PHP Conference Philippines 2016</a> (Manila)</li>
                             </ul>
-                        </div>
-                    </div>
-                </aside>
-                -->
-                
-                <!--
-                <aside class="credits aside section">
-                    <div class="section-inner">
-                        <h2 class="heading">Credits</h2>
-                        <div class="content">
-                            <ul class="list-unstyled">
-                                <li><a href="http://getbootstrap.com/" target="_blank"><i class="fa fa-external-link"></i> Bootstrap 3.2</a></li>
-                                <li><a href="http://fortawesome.github.io/Font-Awesome/" target="_blank"><i class="fa fa-external-link"></i> FontAwsome 4.1</a></li>
-                                <li><a href="http://jquery.com/" target="_blank"><i class="fa fa-external-link"></i> jQuery</a></li>
-                                <li><a href="http://caseyscarborough.com/projects/github-activity/" target="_blank"><i class="fa fa-external-link"></i> GitHub Activity Stream</a></li>
-                                
-                                <li><a href="https://github.com/sdepold/jquery-rss" target="_blank"><i class="fa fa-external-link"></i> jQuery RSS</a></li>
-                                
-                                <li>Profile image: <a href="https://www.flickr.com/photos/dotbenjamin/2577394151" target="_blank">Ben Smith</a></li>
-                                <li>iPad and iPhone mocks: <a href="https://dribbble.com/perlerar" target="_blank">Regy Perlera</a></li>
-                                
-                            </ul>
-                            
-                            <hr/>
-                            
-                             <p>This responsive HTML5 CSS3 site template is handcrafted by UX designer <a href="https://www.linkedin.com/in/xiaoying" target="_blank">Xiaoying Riley</a> at <a href="http://themes.3rdwavemedia.com/" target="_blank">3rd Wave Media</a> for developers and is <strong>FREE</strong> under the <a class="dotted-link" href="http://creativecommons.org/licenses/by/3.0/" target="_blank">Creative Commons Attribution 3.0 License</a></p>
-                             <p>We will improve or add new features to this template based on users' feedback so follow us on twitter to get notified when a new version is out!</p>
-                            <a class="btn btn-cta-secondary btn-follow" href="https://twitter.com/3rdwave_themes" target="_blank"><i class="fa fa-twitter"></i> Follow us</a>
-                            <a class="btn btn-cta-primary btn-download" href="http://themes.3rdwavemedia.com/website-templates/free-responsive-website-template-for-developers/" target="_blank"><i class="fa fa-download"></i> I want to download</a>
                         </div>
                     </div>
                 </aside>
@@ -216,7 +187,7 @@
 
     <footer class="footer">
         <div class="container text-center">
-                <small class="copyright">Designed with <i class="fa fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank">Xiaoying Riley</a> for developers</small>
+                <small class="copyright">Designed with <i class="fa fa-heart"></i> by <a href="//themes.3rdwavemedia.com" target="_blank">Xiaoying Riley</a> for developers</small>
         </div>
     </footer>
  

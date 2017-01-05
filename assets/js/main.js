@@ -17,7 +17,7 @@ $(function () {
     $("#rss-feeds").rss(
     
         //Change this to your own rss feeds
-        "http://ridvanbaluyos.blogspot.com/feeds/posts/default",
+        "https://ridvanbaluyos.blogspot.com/feeds/posts/default",
         
         {
         // how many entries do you want?
