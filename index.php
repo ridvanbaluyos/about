@@ -39,7 +39,7 @@
 <body>
     <header class="header">
         <div class="container">                       
-            <img class="profile-image img-responsive pull-left" style="width: 200px; height: auto;" src="assets/images/profile.jpg" alt="James Lee" />
+            <img class="profile-image img-responsive pull-left" style="width: 200px; height: auto;" src="assets/images/profile.jpg" alt="Ridvan Baluyos" />
             <div class="profile-content pull-left">
                 <h1 class="name">Ridvan Baluyos</h1>
                 <h2 class="desc">Software Engineer</h2>
