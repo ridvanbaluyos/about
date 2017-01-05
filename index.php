@@ -1,190 +1,237 @@
 <!DOCTYPE html>
-<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
-<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
-<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<!--[if IE 8]> <html lang="en" class="ie8"> <![endif]-->  
+<!--[if IE 9]> <html lang="en" class="ie9"> <![endif]-->  
+<!--[if !IE]><!--> <html lang="en"> <!--<![endif]-->  
 <head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <title>Ridvan Baluyos | Software Engineering | Web Development</title>
-  <meta name="description" content="Hello, I'm Ridvan Baluyos. Co-Founder of Ewok Labs, Inc.">
-  <meta name="keywords" content="Software Engineer, PHP Developer, PHP Programmer, PHP Developer Philippines, Filipino Developer, Pogi Developer, Sulit.com.ph" />
-  <meta name="viewport" content="width=device-width">
-  <link rel="author" href="https://plus.google.com/+RidvanBaluyos" />
-  <link rel='shortcut icon' type='image/x-icon' href='favicon.ico' />
-  <link rel="apple-touch-icon-precomposed" href="favicon.ico">
-  <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+    <title>Ridvan Baluyos - Software Engineer</title>
+    <!-- Meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Hello, I'm Ridvan Baluyos, just a humble Software Engineer, geek, nerd, and slave to 3 cats.">
+    <meta name="keywords" content="Software Engineer, PHP Developer, PHP Programmer, PHP Developer Philippines, Filipino Developer, OLX Philippines, OLX Philippines Engineering, OLX.ph" />
+    <meta name="author" content="Ridvan Baluyos">    
 
-  <link rel="stylesheet" href="css/normalize.min.css">
-  <link rel="stylesheet" href="css/main.css">
-  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
-  <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.10.1.min.js"><\/script>')</script>
-  <script src="js/vendor/jquery.hashchange.min.js"></script>
-  <script src="js/vendor/jquery.easytabs.min.js"></script>
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="/favicon.ico" type="image/x-icon">
 
-  <script src="js/main.js"></script>
-  <!--[if lt IE 9]>
-      <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-      <script>window.html5 || document.write('<script src="js/vendor/html5shiv.js"><\/script>')</script>
-      <![endif]-->
-</head>
-  <body class="bg-fixed bg-1">
-<!--[if lt IE 7]>
-    <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="//browsehappy.com/">upgrade your browser</a> or <a href="//www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
+    <link href='http://fonts.googleapis.com/css?family=Lato:300,400,300italic,400italic' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'> 
+    <!-- Global CSS -->
+    <link rel="stylesheet" href="assets/plugins/bootstrap/css/bootstrap.min.css">   
+    <!-- Plugins CSS -->
+    <link rel="stylesheet" href="assets/plugins/font-awesome/css/font-awesome.css">
+    <!-- github acitivity css -->
+    <link rel="stylesheet" href="assets/plugins/github-activity/dist/github-activity-0.1.1.min.css">
+    <link rel="stylesheet" href="assets/plugins/github-activity/dist/octicons/octicons.min.css">
+    
+    
+    <!-- Theme CSS -->  
+    <link id="theme-style" rel="stylesheet" href="assets/css/styles.css">
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
-   <div class="main-container">
-    <div class="main wrapper clearfix">
-      <!-- Header Start -->
-        <header id="header">
-            <div id="logo">
-                <h2>
-                    Ridvan Baluyos
-                </h2>
-                <h4>
-                    Software Engineer
-                </h4>
+    
+</head> 
+
+<body>
+    <header class="header">
+        <div class="container">                       
+            <img class="profile-image img-responsive pull-left" style="width: 200px; height: auto;" src="assets/images/profile.jpg" alt="James Lee" />
+            <div class="profile-content pull-left">
+                <h1 class="name">Ridvan Baluyos</h1>
+                <h2 class="desc">Software Engineer</h2>
+                <ul class="social list-inline">
+                    <li><a href="//ph.linkedin.com/in/ridvanbaluyos/"><i class="fa fa-linkedin"></i></a></li>
+                    <li><a href="//github.com/ridvanbaluyos"><i class="fa fa-github-alt"></i></a></li>
+                    <li><a href="//facebook.com/ridvanbaluyos"><i class="fa fa-facebook"></i></a></li>
+                    <li><a href="//instagram.com/ridvanbaluyos"><i class="fa fa-instagram"></i></a></li>
+                    <li><a href="//twitter.com/ridvanbaluyos"><i class="fa fa-twitter"></i></a></li>
+
+                </ul> 
+            </div><!--//profile-->
+            <a class="btn btn-cta-primary pull-right" href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#114;&#105;&#100;&#118;&#97;&#110;&#64;&#98;&#97;&#108;&#117;&#121;&#111;&#115;&#46;&#110;&#101;&#116;" target="_blank"><i class="fa fa-paper-plane"></i> &#67;&#111;&#110;&#116;&#97;&#99;&#116;&#32;&#77;&#101;</a>
+        </div>
+    </header>
+    
+    <div class="container sections-wrapper">
+        <div class="row">
+            <div class="primary col-md-8 col-sm-12 col-xs-12">
+                <section class="about section">
+                    <div class="section-inner">
+                        <h2 class="heading">About Me</h2>
+                        <div class="content">
+                            <p>
+                                geek. nerd. slave to 3 cats.
+                            </p>
+                         
+                        </div>
+                    </div>
+                </section>
+
+                <section class="github section">
+                    <div class="section-inner">
+                        <h2 class="heading">I code for a living</h2>
+                        <div id="ghfeed" class="ghfeed"></div>
+                    </div>
+                </section>
             </div>
-        </header>
-        <!-- Header End -->
-
-        <!-- Main Tab Container -->
-        <div id="tab-container" class="tab-container">
-          <!-- Tab List -->
-            <ul class='etabs'>
-                <li class='tab' id="tab-about">
-                  <a href="#about?rel=http://plus.google.com/+RidvanBaluyos" title="Ridvan Baluyos | About"><i class="fa fa-user"></i><span> About Me</span></a>
-                </li>
-                <li class='tab'>
-                  <a href="#contact" title="Ridvan Baluyos | Email | Contact | Find"><i class="fa fa-envelope"></i><span> Contact</span></a>
-                </li>
-            </ul>
-          <!-- End Tab List -->
-
-            <div id="tab-data-wrap">
-              <!-- About Tab Data -->
-                <div id="about">
-                    <section class="clearfix">
-                        <div class="g3">
-                            <div class="photo">
-                                <a href="//photos-g.ak.instagram.com/hphotos-ak-xaf1/t51.2885-15/10848352_353478128156926_1843449433_n.jpg" target="_blank"><img src="//distilleryimage11.ak.instagram.com/2d2787f2272f11e3999722000a1fcf03_7.jpg" alt="Ridvan Baluyos"></a>
-                            </div>
-                            <div class="info">
-                                <h2>
-                                    Ridvan Baluyos
-                                </h2>
-                                <h4>
-                                    Software Engineer
-                                </h4>
-                                <p>
-                                  Apart from being a full-time corporate geek/slave for an <a href="http://www.olx.ph">awesome company</a>, I enjoy tinkering and hacking technology stacks at my <a href="http://www.ewoklabs.net" target="_blank" title="Ewok Labs, Inc | Research and Development">R&D Laboratory</a>. We follow the <a href="http://progmofo.com/" target="_blank" title="Programming, Motherfucker.">Programming, zbgureshpxre</a> manifesto. <br/><br/>
-                                  I am a cat lover and I have three living with me: 3rdy (Japanese Bobtail), Tara (Persian Blue), and Trinity (Domestic "PusPin" I rescued after being thrown in the garbage). <br/><br/>
-                                  I have other hobbies such as Photography (Travel and Candid Portraits). You can check my <a href="http://rbaluyos.deviantart.com/" target="_blank" title="rbaluyos | deviantArt">deviantArt</a> account where I store my photos but has been on a hiatus. I also enjoy Martial Arts and enjoy watching UFC. I am a Brown Belt in Karate under the <a href="http://www.jka.or.jp/" target="_blank" title="Japan Karate Association">Japan Karate Association</a>. Mostly during weekends, I go out with my mountain bike around the outskirts of Metro Manila.
-                                </p>
+            <div class="secondary col-md-4 col-sm-12 col-xs-12">
+                <aside class="education aside section">
+                    <div class="section-inner">
+                        <h2 class="heading">Education</h2>
+                        <div class="content">
+                            <div class="item">
+                                <h3 class="title"><i class="fa fa-graduation-cap"></i> BSc Computer Science</h3>
+                                <h4 class="university">Xavier University - Ateneo de Cagayan <span class="year">(2003-2007)</span></h4>
                             </div>
                         </div>
-                        <div class="break"></div>
-                        <div class="contact-info">
-                          <div class="g1">
-                            <div class="item-box clearfix">
-                              <i class="fa fa-globe"></i>
-                              <div class="item-data">
-                                <h3><a href="//blog.ridvanbaluyos.com" title="Ridvan Baluyos | Blog | Geek Neko" target="_blank">geek neko</a></h3>
-                                <p>Personal Blog</p>
-                              </div>
-                            </div>
-                          </div>
-                          <div class="g1">
-                            <div class="item-box clearfix">
-                              <i class="fa fa-linkedin"></i>
-                              <div class="item-data">
-                                <h3><a href="//ph.linkedin.com/in/ridvanbaluyos/" title="Ridvan Baluyos | LinkedIn" target="_blank">ridvanbaluyos</a></h3>
-                                <p>LinkedIn</p>
-                              </div>
-                            </div>
-                          </div>
-                          <div class="g1">
-                            <div class="item-box clearfix">
-                              <i class="fa fa-github"></i>
-                              <div class="item-data">
-                                <h3><a href="//github.com/ridvanbaluyos" title="Ridvan Baluyos | Github" target="_blank">ridvanbaluyos</a></h3>
-                                <p>Github</p>
-                              </div>
-                            </div>
-                          </div>
-                          <div class="break"></div>
-                          <!-- 2nd Row -->
-                          <div class="g1">
-                            <div class="item-box clearfix">
-                              <i class="fa fa-twitter"></i>
-                              <div class="item-data">
-                                <h3><a href="//twitter.com/ridvanbaluyos" title="Ridvan Baluyos | Twitter" target="_blank">@ridvanbaluyos</a></h3>
-                                <p>Twitter Handle</p>
-                              </div>
-                            </div>
-                          </div>
-                          <div class="g1">
-                            <div class="item-box clearfix">
-                              <i class="fa fa-facebook"></i>
-                              <div class="item-data">
-                                <h3><a href="//www.facebook.com/ridvanbaluyos" title="Ridvan Baluyos | Facebook" target="_blank">ridvanbaluyos</a></h3>
-                                <p>Facebook (private)</p>
-                              </div>
-                            </div>
-                          </div>
-                          <div class="g1">
-                            <div class="item-box clearfix">
-                              <i class="fa fa-google-plus"></i>
-                              <div class="item-data">
-                                <h3><a href="//plus.google.com/+RidvanBaluyos" title="Ridvan Baluyos | Google+" target="_blank">+RidvanBaluyos</a></h3>
-                                <p>Google+</p>
-                              </div>
-                            </div>
-                          </div>
+                    </div>
+                </aside>
+
+                <aside class="languages aside section">
+                    <div class="section-inner">
+                        <h2 class="heading">Languages Spoken</h2>
+                        <div class="content">
+                            <ul class="list-unstyled">
+                                <li class="item">
+                                    <span class="title"><strong>Filipino:</strong></span>
+                                    <span class="level">Native Speaker <br class="visible-xs"/>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                    </span>
+                                </li>
+                                <li class="item">
+                                    <span class="title"><strong>Cebuano:</strong></span>
+                                    <span class="level">Native Speaker <br class="visible-xs"/>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                    </span>
+                                </li>
+                                <li class="item">
+                                    <span class="title"><strong>English:</strong></span>
+                                    <span class="level">Professional Proficiency <br class="visible-sm visible-xs"/>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                    </span>
+                                </li>
+                                <li class="item">
+                                    <span class="title"><strong>Japanese:</strong></span>
+                                    <span class="level">Elementary Proficiency <br class="visible-sm visible-xs"/>
+                                        <i class="fa fa-star"></i>
+                                    </span>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </aside>
+
+                <aside class="list music aside section">
+                    <div class="section-inner">
+                        <h2 class="heading">Coding music</h2>
+                        <div class="content">
+                            <ul class="list-unstyled">
+                                <li><i class="fa fa-headphones"></i> <a href="https://soundcloud.com/the-algorithm/albums">The Algorithm</a></li>
+                                <li><i class="fa fa-headphones"></i> <a href="https://soundcloud.com/partition36/albums">Partition 36</a></li>
+                                <li><i class="fa fa-headphones"></i> <a href="https://soundcloud.com/modulogeek/albums">modulogeek</a></li>
+                                <li><i class="fa fa-headphones"></i> <a href="https://soundcloud.com/u137/tracks">U137</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </aside>
+
+                <aside class="blog aside section">
+                    <div class="section-inner">
+                        <h2 class="heading">Latest Blog Posts</h2>
+                        <p>You can use Sascha Depold's <a href="https://github.com/sdepold/jquery-rss" target="_blank">jQuery RSS plugin</a> to pull in your blog post feeds.</p>
+                        <div id="rss-feeds" class="content">
 
                         </div>
-                    </section><!-- content -->
-                </div>
-              <!-- End About Tab Data -->
-              <!-- Contact Tab Data -->
-                <div id="contact">
-                    <section class="clearfix">
-                       <div class="g3">
-                         <div class="sny-icon-box">
-                           <div class="sny-icon">
-                              <i class="fa fa-envelope"></i>
-                            </div>
-                            <div class="sny-icon-content">
-                              <h4>Email</h4>
-                              <p>
-                              <a title="Ridvan Baluyos | Email" href='m&#97;il&#116;o&#58;&#114;idva&#110;%40%62&#97;&#108;&#37;&#55;5y%&#54;F&#115;&#46;n%6&#53;t'>&#114;&#105;dv&#97;n&#64;balu&#121;&#111;&#115;&#46;net</a>
-</p>
-                            </div>
-                         </div>
-                       </div>
-                    </section>
-                </div>
-              <!-- End Contact Data -->
+                    </div>
+                </aside>
+
+                <!--
+                <aside class="list conferences aside section">
+                    <div class="section-inner">
+                        <h2 class="heading">Conferences</h2>
+                        <div class="content">
+                            <ul class="list-unstyled">
+                                <li><i class="fa fa-calendar"></i> <a href="https://2012.jsconf.asia/" target="_blank">JS Camp Asia 2012</a> (Singapore)</li>
+                                <li><i class="fa fa-calendar"></i> <a href="http://2013.uxsg.org/" target="_blank">UXSG 2013</a> (Singapore)</li>
+                                <li><i class="fa fa-calendar"></i> <a href="https://2013.jsconf.asia/">JS Conf Asia 2013</a> (Manila)</li>
+                                <li><i class="fa fa-calendar"></i> <a href="#">OLX Atlas Bootcamp 2015</a> (New Delhi)</li>
+                                <li><i class="fa fa-calendar"></i> <a href="https://2016.phpconf.asia/recap_2015.html">PHP Conference Asia 2015</a> (Singapore)</li>
+                                <li><i class="fa fa-calendar"></i> <a href="#">OLX Tech Leads Summit 2015</a> (Berlin)</li>
+                                <li><i class="fa fa-calendar"></i> <a href="#">OLX CLM Embedding Summit 2016</a> (Dubai)</li>
+                                <li><i class="fa fa-calendar"></i> <a href="http://www.phpconfph.com/">PHP Conference Philippines 2016</a> (Manila)</li>
+                            </ul>
+                        </div>
+                    </div>
+                </aside>
+                -->
+                
+                <!--
+                <aside class="credits aside section">
+                    <div class="section-inner">
+                        <h2 class="heading">Credits</h2>
+                        <div class="content">
+                            <ul class="list-unstyled">
+                                <li><a href="http://getbootstrap.com/" target="_blank"><i class="fa fa-external-link"></i> Bootstrap 3.2</a></li>
+                                <li><a href="http://fortawesome.github.io/Font-Awesome/" target="_blank"><i class="fa fa-external-link"></i> FontAwsome 4.1</a></li>
+                                <li><a href="http://jquery.com/" target="_blank"><i class="fa fa-external-link"></i> jQuery</a></li>
+                                <li><a href="http://caseyscarborough.com/projects/github-activity/" target="_blank"><i class="fa fa-external-link"></i> GitHub Activity Stream</a></li>
+                                
+                                <li><a href="https://github.com/sdepold/jquery-rss" target="_blank"><i class="fa fa-external-link"></i> jQuery RSS</a></li>
+                                
+                                <li>Profile image: <a href="https://www.flickr.com/photos/dotbenjamin/2577394151" target="_blank">Ben Smith</a></li>
+                                <li>iPad and iPhone mocks: <a href="https://dribbble.com/perlerar" target="_blank">Regy Perlera</a></li>
+                                
+                            </ul>
+                            
+                            <hr/>
+                            
+                             <p>This responsive HTML5 CSS3 site template is handcrafted by UX designer <a href="https://www.linkedin.com/in/xiaoying" target="_blank">Xiaoying Riley</a> at <a href="http://themes.3rdwavemedia.com/" target="_blank">3rd Wave Media</a> for developers and is <strong>FREE</strong> under the <a class="dotted-link" href="http://creativecommons.org/licenses/by/3.0/" target="_blank">Creative Commons Attribution 3.0 License</a></p>
+                             <p>We will improve or add new features to this template based on users' feedback so follow us on twitter to get notified when a new version is out!</p>
+                            <a class="btn btn-cta-secondary btn-follow" href="https://twitter.com/3rdwave_themes" target="_blank"><i class="fa fa-twitter"></i> Follow us</a>
+                            <a class="btn btn-cta-primary btn-download" href="http://themes.3rdwavemedia.com/website-templates/free-responsive-website-template-for-developers/" target="_blank"><i class="fa fa-download"></i> I want to download</a>
+                        </div>
+                    </div>
+                </aside>
+                -->
+
             </div>
         </div>
-        <!-- End Tab Container -->
-        <footer>
-            <p>
-                © 2013 <a href="http://www.ewoklabs.net" target="_blank" title="Ewok Labs, Inc.">Ewok Labs, Inc.</a><br/>
-                <span style="font-size: 9px;">Designed with lots of love at <a href="//www.mrova.com" title="Pune web designing company">mRova</a>.</span>
-            </p>
-        </footer>
-    </div><!-- #main -->
-</div><!-- #main-container -->
-<!-- Google Analytics -->
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    </div><!--//masonry-->
 
-  ga('create', 'UA-45399063-2', 'ridvanbaluyos.com');
-  ga('send', 'pageview');
-</script>
+    <footer class="footer">
+        <div class="container text-center">
+                <small class="copyright">Designed with <i class="fa fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank">Xiaoying Riley</a> for developers</small>
+        </div>
+    </footer>
+ 
+    <!-- Javascript -->          
+    <script type="text/javascript" src="assets/plugins/jquery-1.11.2.min.js"></script>
+    <script type="text/javascript" src="assets/plugins/jquery-migrate-1.2.1.min.js"></script>
+    <script type="text/javascript" src="assets/plugins/bootstrap/js/bootstrap.min.js"></script>    
+    <script type="text/javascript" src="assets/plugins/jquery-rss/dist/jquery.rss.min.js"></script>
 
+    <!-- github activity plugin -->
+    <script type="text/javascript" src="assets/plugins/github-activity/dist/mustache/mustache.min.js"></script>
+    <script type="text/javascript" src="assets/plugins/github-activity/dist/github-activity-0.1.1.min.js"></script>
+
+    <!-- custom js -->
+    <script type="text/javascript" src="assets/js/main.js"></script>            
 </body>
-</html>
+</html> 
+
