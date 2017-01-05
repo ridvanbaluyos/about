@@ -151,6 +151,7 @@
                     </div>
                 </aside>
 
+                <!--
                 <aside class="blog aside section">
                     <div class="section-inner">
                         <h2 class="heading">Latest Blog Posts</h2>
@@ -160,6 +161,7 @@
                         </div>
                     </div>
                 </aside>
+                -->
 
                 <!--
                 <aside class="list conferences aside section">
