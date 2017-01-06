@@ -199,11 +199,11 @@
     <script type="text/javascript" data-cfasync="true" src="assets/plugins/bootstrap/js/bootstrap.min.js" async></script>
 
     <!-- github activity plugin -->
-    <script type="text/javascript" data-cfasync="true" src="assets/plugins/github-activity/dist/mustache/mustache.min.js" async></script>
-    <script type="text/javascript" data-cfasync="true" src="assets/plugins/github-activity/dist/github-activity-0.1.1.min.js" async></script>
+    <script type="text/javascript" data-cfasync="true" src="assets/plugins/github-activity/dist/mustache/mustache.min.js"></script>
+    <script type="text/javascript" data-cfasync="true" src="assets/plugins/github-activity/dist/github-activity-0.1.1.min.js"></script>
 
     <!-- custom js -->
-    <script type="text/javascript" data-cfasync="true" src="assets/js/main.js" async></script>
+    <script type="text/javascript" data-cfasync="true" src="assets/js/main.js"></script>
 </body>
 </html> 
 
