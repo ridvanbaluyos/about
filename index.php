@@ -52,7 +52,14 @@
 
                 </ul> 
             </div><!--//profile-->
-            <a class="btn btn-cta-primary pull-right" href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#114;&#105;&#100;&#118;&#97;&#110;&#64;&#98;&#97;&#108;&#117;&#121;&#111;&#115;&#46;&#110;&#101;&#116;" target="_blank"><i class="fa fa-paper-plane"></i> &#67;&#111;&#110;&#116;&#97;&#99;&#116;&#32;&#77;&#101;</a>
+            <a href="https://www.checkmeout.ph/I/Test-Item-140c9b29c" target="_blank"><img src="https://www.checkmeout.ph/cmo-checkout.png"><a>
+            <meta data-checkmeout-id="14178" name="checkmeout-title" content="test" />
+            <meta data-checkmeout-id="14178" name="checkmeout-receptacle" content="Regular" />
+            <meta data-checkmeout-id="14178" name="checkmeout-currency" content="Php" />
+            <meta data-checkmeout-id="14178" name="checkmeout-price" content="100" />
+            <meta data-checkmeout-id="14178" name="checkmeout-image" content="assets/images/profile.jpg" />
+            <button data-checkmeout-id="14178" data-trigger="checkmeout">Buy It Now!</button>
+<!--            <a class="btn btn-cta-primary pull-right" href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#114;&#105;&#100;&#118;&#97;&#110;&#64;&#98;&#97;&#108;&#117;&#121;&#111;&#115;&#46;&#110;&#101;&#116;" target="_blank"><i class="fa fa-paper-plane"></i> &#67;&#111;&#110;&#116;&#97;&#99;&#116;&#32;&#77;&#101;</a>-->
         </div>
     </header>
     
@@ -204,6 +211,9 @@
 
     <!-- custom js -->
     <script type="text/javascript" src="assets/js/main.js"></script>
+
+    <!-- check me out -->
+    <script type="text/javascript" src="https://checkmeout.ph/widget/checkout.js?token=fe850b6291880ff52e4cd29d1bac8d2f"></script>
 </body>
 </html> 
 
